@@ -1,0 +1,27 @@
+=== Basic ===
+Ural      n=56  sum=62  CVI=18.45%
+Syr Darya n=12  sum=19  CVI=26.39%
+  access   Ural mean=0.52  Syr mean=0.92
+  clarity  Ural mean=0.52  Syr mean=0.42
+  time     Ural mean=0.07  Syr mean=0.25
+
+=== H1 (Ural CVI below 50%) ===
+CVI=18.45%  95% CI [14.87, 22.62]  -> SUPPORTED
+
+=== H2 (data-exchange vs water-quantity Accessibility, descriptive) ===
+data exchange n=6 mean=0.83;  water quantity n=4 mean=0.50
+difference=0.33  95% CI [-0.25, 0.83]  (a group has <5 obligations -> descriptive only)
+
+=== H3 (share requiring public disclosure, threshold 10%) ===
+1/56 = 1.8%  95% Wilson [0.3, 9.4]%  -> SUPPORTED
+
+=== H7 (CVI Syr Darya minus CVI Ural; confirmatory) ===
+difference=7.94 percentage points  95% CI [-0.50, 17.46]
+-> INCONCLUSIVE (interval contains 0)
+
+=== H8 (joint commission minus both states, descriptive) ===
+commission n=16 CVI=28.12%;  both states n=34 CVI=14.71%;  single party n=6 CVI=13.89% (descriptive)
+difference=13.42 pp  95% CI [5.21, 22.06]
+
+=== H9 (confidentiality / third-party restriction share, descriptive) ===
+3/56 = 5.4%  95% Wilson [1.8, 14.6]%
