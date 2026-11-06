@@ -1,4 +1,0 @@
-,mean,lo,hi,rhat,divergences,"converged (R-hat<1.01, 0 divergences)"
-sceptical sd=2,-0.202,-0.671,0.263,1.001,0.0,True
-REGISTERED sd=10,-0.198,-0.659,0.258,1.001,0.0,True
-loose sd=50,-0.198,-0.647,0.266,1.002,0.0,True
