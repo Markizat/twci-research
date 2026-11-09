@@ -1,5 +1,5 @@
 ## Can Citizens Verify a Water Treaty? Measuring Observability and Opacity in the Ural (Zhayik) Basin
-DOI: [10.5281/zenodo.24093640](https://doi.org/10.5281/zenodo.24093640)
+DOI (all versions): [10.5281/zenodo.24093639](https://doi.org/10.5281/zenodo.24093639)
 ## Can Citizens Verify a Water Treaty? Measuring Observability and Opacity in the Ural (Zhayik) Basin
 
 ## 1. What this project is
