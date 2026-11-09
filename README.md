@@ -3,7 +3,6 @@ DOI: [10.5281/zenodo.24093640](https://doi.org/10.5281/zenodo.24093640)
 ## Can Citizens Verify a Water Treaty? Measuring Observability and Opacity in the Ural (Zhayik) Basin
 
 ## 1. What this project is
-## 1. What this project is
 
 This project examines whether citizens can independently verify the implementation of transboundary water agreements using publicly available information. It focuses on the Ural (Zhayik) River agreements between Kazakhstan and Russia and compares their observability with obligations in the 1998 Syr Darya agreement. The main question is: which treaty obligations can citizens verify using open information, and which remain difficult to check?
 
@@ -36,7 +35,7 @@ A separate satellite-data analysis uses Sentinel-2 SR_HARMONIZED imagery in Goog
 
 The Syr Darya analysis includes only 11 obligations. Its inter-rater Cohen’s kappa for Clarity was 0.25, indicating limited agreement. Satellite observations are incomplete: only 65 of 120 months were valid for Iriklinskoye. The Shardara study area also included nearby lakes, so its measured water area cannot be attributed exclusively to the reservoir. Missing or invalid months were not filled with estimated values. In addition, the 2010 Ural agreement text is a draft version.
 
-5. Files
+## 5. Files
 
 * code/ — contains analysis.py and twci_2_bayes.py for analysis and Bayesian calculations.
 * data/ — contains ural.csv, syrdarya.csv, monthly Iriklinskoye and Shardara data files, and Blind Spot Register lists.
