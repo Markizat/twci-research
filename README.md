@@ -1,5 +1,8 @@
 ## Can Citizens Verify a Water Treaty? Measuring Observability and Opacity in the Ural (Zhayik) Basin
+DOI: [10.5281/zenodo.24093640](https://doi.org/10.5281/zenodo.24093640)
+## Can Citizens Verify a Water Treaty? Measuring Observability and Opacity in the Ural (Zhayik) Basin
 
+## 1. What this project is
 ## 1. What this project is
 
 This project examines whether citizens can independently verify the implementation of transboundary water agreements using publicly available information. It focuses on the Ural (Zhayik) River agreements between Kazakhstan and Russia and compares their observability with obligations in the 1998 Syr Darya agreement. The main question is: which treaty obligations can citizens verify using open information, and which remain difficult to check?
