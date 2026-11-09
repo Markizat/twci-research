@@ -59,3 +59,4 @@ Claude and ChatGPT were used for selected research-support tasks, including text
 Author: Markizat Rakhymzhankyzy
 
 See the LICENSE file for licensing terms.
+* TWCI_Deviation_and_Disclosure_Log.pdf — the full Deviation Log and Disclosure Log (in Kazakh).
