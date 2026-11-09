@@ -43,9 +43,8 @@ The Syr Darya analysis includes only 11 obligations. Its inter-rater Cohen’s k
 ## 6. Preregistration and deviations
 
 The research plans were preregistered on OSF:
-
-* OSF Registration #1
-* OSF Registration #2
+ [OSF Registration #1](https://osf.io/h3wgn)
+ [OSF Registration #2](https://osf.io/z4vde)
 
 Deviations from the preregistrations are documented in the Deviation Log.
 
