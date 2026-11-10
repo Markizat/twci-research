@@ -8,10 +8,10 @@ SEED, B = 2026, 10_000
 def load(path):
     with open(path, encoding="utf-8") as f:
         return list(csv.DictReader(f))
-
-ural = load("ural.csv")
-syr = load("syrdarya.csv")
-
+from pathlib import Path
+DATA = Path(__file__).resolve().parents[1] / "data"
+ural = load(DATA / "ural.csv")
+syr = load(DATA / "syrdarya.csv")
 def score(r):                       # obligation score 0-6
     return int(r["access"]) + int(r["clarity"]) + int(r["time"])
 
